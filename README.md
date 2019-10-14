@@ -1,2 +1,2 @@
-# new_beginnings_lab_fa19
+# New Beginnings CS163-CS202 Lab
 Example code used in lab demonstrations.
